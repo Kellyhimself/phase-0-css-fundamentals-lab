@@ -3,3 +3,34 @@ body {
   height: 100%;
   margin: 0;
 }
+nav, section{
+  text-align: center;
+  
+}
+header{
+  text-align: center;
+}
+.bodytext{
+  margin: auto;
+  text-align: center;
+  margin-left: 300px;
+  margin-right: 300px;
+
+
+}
+div{
+  float: left;
+  padding: 10px;
+  margin-left: 10%;
+    
+}
+#details{
+  background-color: red;
+  height: 30%;
+  position: absolute;
+  top: 900px;
+  left: 0;
+  width: 100%;
+ }
+
+
